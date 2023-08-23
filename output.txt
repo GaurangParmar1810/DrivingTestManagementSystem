@@ -1,0 +1,61 @@
+Result of Registered Candidates: 
+
+ 		 Passing Status: Pass 	 Vehicle Type: Two Wheeler 	 Name: Elliot Saad
+
+ 		 Passing Status: Pass 	 Vehicle Type: Two Wheeler 	 Name: Jeffie Gabbard 
+
+ 		 Passing Status: Pass 	 Vehicle Type: Two Wheeler 	 Name: Krystal Love
+
+ 		 Passing Status: Fail 	 Vehicle Type: Four Wheeler 	 Name: Kira Handel 
+
+ 		 Passing Status: Pass 	 Vehicle Type: Heavy Vehicle 	 Name: Marybeth Jock  
+
+ 		 Passing Status: Pass 	 Vehicle Type: Two Wheeler 	 Name: Corey Kuhlman
+
+ 		 Passing Status: Pass 	 Vehicle Type: Four Wheeler 	 Name: Myrtie Athens  
+
+ 		 Passing Status: Pass 	 Vehicle Type: Heavy Vehicle 	 Name: Annie Gilsdorf  
+
+ 		 Passing Status: Fail 	 Vehicle Type: Two Wheeler 	 Name: Rachelle Vassar  
+
+ 		 Passing Status: Pass 	 Vehicle Type: Four Wheeler 	 Name: Maxine Ford
+
+ 		 Passing Status: Fail 	 Vehicle Type: Heavy Vehicle 	 Name: Fern Gran
+
+ 		 Passing Status: Pass 	 Vehicle Type: Two Wheeler 	 Name: Duane Finkle  
+
+ 		 Passing Status: Pass 	 Vehicle Type: Four Wheeler 	 Name: Foster Kratochvil  
+
+ 		 Passing Status: Fail 	 Vehicle Type: Heavy Vehicle 	 Name: Tennie Milligan  
+
+ 		 Passing Status: Fail 	 Vehicle Type: Two Wheeler 	 Name: Collin Merrill
+
+ 		 Passing Status: Fail 	 Vehicle Type: Four Wheeler 	 Name: Cammie Hackenberg  
+
+ 		 Passing Status: Pass 	 Vehicle Type: Heavy Vehicle 	 Name: Avis Mahaney
+
+ 		 Passing Status: Pass 	 Vehicle Type: Two Wheeler 	 Name: Doria Stfleur    
+
+ 		 Passing Status: Fail 	 Vehicle Type: Four Wheeler 	 Name: Bernetta Vidaurri
+
+ 		 Passing Status: Pass 	 Vehicle Type: Heavy Vehicle 	 Name: Rocky Milligan  
+
+
+-----------------------Today's Data-----------------------
+
+Total Tests done : 20 
+Total Test Passed :  13
+
+------------------------------------------------------------
+
+Total 2-wheeler Tests passed today : 6
+Total 4-wheeler Tests passed today : 3
+Total heavy vehicle passed today : 4
+
+------------------------------------------------------------
+
+Total candidates who can reappear in test: 5
+Total Candidates who have to registration again for test: 2
+
+---------------------------DONE---------------------------
+
